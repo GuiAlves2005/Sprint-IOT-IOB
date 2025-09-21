@@ -37,3 +37,12 @@ O script utiliza a função `detectMultiScale` do OpenCV, que possui parâmetros
 ## 4. Nota Ética Sobre o Uso de Dados Faciais
 
 A tecnologia de reconhecimento facial é poderosa e carrega responsabilidades éticas significativas. O uso de dados faciais deve sempre priorizar a privacidade, o consentimento e a segurança do indivíduo. É crucial estar ciente dos vieses que podem existir em algoritmos pré-treinados, que muitas vezes apresentam menor precisão para certos grupos demográficos. Este projeto é estritamente educacional e não armazena nenhuma imagem ou dado biométrico.
+
+## Link do vídeo
+https://youtu.be/2r7o9fS36F4
+
+## Integrantes do Grupo
+Bruno Venturi Lopes Vieira - 99431
+Guilherme Alves de Lima - 550433
+Pedro Guerra - 99526
+Leonardo de Oliveira Ruiz - 98901
